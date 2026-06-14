@@ -1,0 +1,12 @@
+streamlit==1.36.0
+python-dotenv==1.0.1
+pypdf==4.3.1
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-google-genai==1.0.10
+chromadb==0.5.5
+sentence-transformers==3.0.1
+scikit-learn==1.5.1
+pandas==2.2.2
+numpy==1.26.4
+reportlab==4.2.2
